@@ -1,0 +1,30 @@
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+li{
+    list-style: none;
+}
+body{
+    font-family: sans-serif;
+    font-weight: 400; 
+    font-size: 20px; 
+    color: white;
+    height: 800px;
+    width: 1200px;
+}
+.box{
+    display: flex;
+    background-color: brown;
+    height: 220px;
+    width: 700px; 
+}
+.information_container ,.experiences_container,.image_container{
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+p{
+    color: black;  
+    font-size: 26px;
+}
